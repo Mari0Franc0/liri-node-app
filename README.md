@@ -1,3 +1,3 @@
 # liri-node-app
 
-![Image of Liri Node App] (liri-node-app/LiriApp2.gif)
+![Image of Liri Node App] (..LiriApp2.gif)
